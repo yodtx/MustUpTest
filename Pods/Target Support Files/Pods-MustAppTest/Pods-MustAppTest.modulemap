@@ -1,0 +1,6 @@
+framework module Pods_MustAppTest {
+  umbrella header "Pods-MustAppTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
